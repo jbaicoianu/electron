@@ -60,7 +60,7 @@ vars = {
   'checkout_oculus_sdk':
     False,
   'checkout_openxr':
-    False,
+    True,
   'build_with_chromium':
     True,
   'checkout_android':
